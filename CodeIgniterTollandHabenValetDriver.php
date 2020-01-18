@@ -1,6 +1,6 @@
 <?php
 
-class CodeIgniterValetDriver extends ValetDriver
+class CodeIgniterTollandHabenValetDriver extends ValetDriver
 {
     /**
      * Determine if the driver serves the request.
